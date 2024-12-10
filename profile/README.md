@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/cds-logo.png" alt="CDS.ID Logo" width="200"/>
+  <picture>
+    <source srcset="./assets/cds-logo-white.png" media="(prefers-color-scheme: dark)">
+    <img src="./assets/cds-logo.png" alt="CDS.ID Logo" width="200"/>
+  </picture>
 </p>
 
 # CDS.ID Repository
@@ -38,7 +41,7 @@ Cipta Dua Saudara is a dynamic IT agency driven by a passion for technology and 
 <div align="center">
 
 For more information about our services and solutions:
-🌐 [cds.id](https://ciptadusa.com)
-📧 [info@cds.id](mailto:info@ciptadusa.com)
+🌐 [ciptadusa.com](https://ciptadusa.com)
+📧 [info@ciptadusa.com](mailto:info@ciptadusa.com)
 
 </div>
