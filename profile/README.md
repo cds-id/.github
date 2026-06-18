@@ -5,38 +5,55 @@
   </picture>
 </p>
 
-# CDS.ID Repository
+# Cipta Dua Saudara (CDS)
 
-Welcome to the official repository of PT Cipta Dua Saudara (CDS.ID). This repository hosts both our open source projects and private repositories.
-
-## About Us
-
-Cipta Dua Saudara is a dynamic IT agency driven by a passion for technology and a commitment to excellence. Founded by two visionary brothers, our company has grown into a trusted partner for businesses seeking to leverage technology for growth and success. We bring together a diverse team of experts who specialize in various aspects of IT, from web design and development to app creation and digital transformation.
+<p align="center">
+  <a href="#english">English</a> · <a href="#bahasa-indonesia">Bahasa Indonesia</a>
+</p>
 
 ---
 
-## Our Products
+## English
+
+CDS builds digital products, business systems, and open source tools from Indonesia. Main site: [ciptadusa.com](https://ciptadusa.com).
+
+We focus on two public divisions:
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/cds-id/etags">
-        <img src="https://img.shields.io/badge/ETags-Blockchain_Product_Protection-4A90D9?style=for-the-badge&logo=ethereum&logoColor=white" alt="ETags">
+      <a href="https://zettacrm.com">
+        <img src="./assets/zetta-mark.png" alt="Zetta CRM mark" width="120"/>
       </a>
-      <h3>🔐 ETags</h3>
-      <p>Platform sederhana untuk melindungi produk Anda dengan teknologi Blockchain. Verifikasi keaslian produk dengan mudah dan aman.</p>
-      <p>
-        <a href="https://github.com/cds-id/etags">
-          <img src="https://img.shields.io/badge/Repository-Public-success?style=flat-square" alt="Public">
-        </a>
-      </p>
+      <h3>Zetta CRM</h3>
+      <p>Self-hosted, local-first CRM backend for AI agents. Manage contacts, email, inbox sync, campaigns, scheduling, analytics, and MCP operations inside your own stack.</p>
+      <p><a href="https://zettacrm.com">zettacrm.com</a></p>
     </td>
     <td width="50%" align="center">
+      <a href="https://open.ciptadusa.com">
+        <img src="./assets/opensource-divisions.svg" alt="CDS Open Source Divisions" width="140"/>
+      </a>
+      <h3>Open Source Divisions</h3>
+      <p>CDS Open Source home for public tools, experiments, and community-ready engineering work.</p>
+      <p><a href="https://open.ciptadusa.com">open.ciptadusa.com</a></p>
+    </td>
+  </tr>
+</table>
+
+### About Us
+
+Cipta Dua Saudara (CDS) partners with companies to design, build, and improve software. We combine product strategy, web development, app development, automation, and IT consulting to help teams ship practical technology with long-term value.
+
+### Products
+
+<table>
+  <tr>
+    <td width="100%" align="center">
       <a href="https://github.com/SOngkir">
         <img src="https://img.shields.io/badge/SOngkir-Shopify_Ongkir-F97316?style=for-the-badge&logo=shopify&logoColor=white" alt="SOngkir">
       </a>
       <h3>📦 SOngkir</h3>
-      <p>Plugin Shopify untuk cek ongkos kirim domestik Indonesia. Mendukung JNE, J&T, SiCepat, AnterAja, dan kurir lainnya.</p>
+      <p>Shopify plugin for Indonesian domestic shipping rate checks. Supports JNE, J&amp;T, SiCepat, AnterAja, and other couriers.</p>
       <p>
         <a href="https://github.com/SOngkir">
           <img src="https://img.shields.io/badge/Organization-SOngkir-orange?style=flat-square" alt="SOngkir Org">
@@ -49,36 +66,117 @@ Cipta Dua Saudara is a dynamic IT agency driven by a passion for technology and 
   </tr>
 </table>
 
----
-
-## Our Services
+### Services
 
 <table>
   <tr>
     <td width="33%">
       <h3>🚀 App Development</h3>
-      <p>We create custom mobile and web applications tailored to your business needs, ensuring intuitive design, robust functionality, and seamless user experience.</p>
+      <p>Custom mobile and web applications tailored to business needs, built for usability, robust functionality, and seamless user experience.</p>
     </td>
     <td width="33%">
       <h3>💻 Web Development</h3>
-      <p>Our web development services deliver visually appealing, responsive, and high-performance websites that effectively represent your brand and engage your audience.</p>
+      <p>Responsive, high-performance websites that represent your brand and help audiences understand, trust, and contact your business.</p>
     </td>
     <td width="33%">
       <h3>📊 IT Consulting</h3>
-      <p>We provide expert IT consulting to optimize your technology infrastructure, streamline operations, and drive business growth with strategic, tailored solutions.</p>
+      <p>Practical IT consulting to improve infrastructure, streamline operations, and support business growth with fit-for-purpose technology.</p>
     </td>
   </tr>
 </table>
 
----
-
-## Contact
+### Contact
 
 <div align="center">
 
 For more information about our services and solutions:
 
-🌐 [ciptadusa.com](https://ciptadusa.com)
+🌐 [ciptadusa.com](https://ciptadusa.com)  
+📧 [info@ciptadusa.com](mailto:info@ciptadusa.com)
+
+</div>
+
+---
+
+## Bahasa Indonesia
+
+CDS membangun produk digital, sistem bisnis, dan tools open source dari Indonesia. Situs utama: [ciptadusa.com](https://ciptadusa.com).
+
+Kami berfokus pada dua divisi publik:
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://zettacrm.com">
+        <img src="./assets/zetta-mark.png" alt="Zetta CRM mark" width="120"/>
+      </a>
+      <h3>Zetta CRM</h3>
+      <p>Backend CRM self-hosted dan local-first untuk AI agents. Kelola kontak, email, sinkronisasi inbox, campaign, scheduling, analytics, dan operasi MCP di dalam stack Anda sendiri.</p>
+      <p><a href="https://zettacrm.com">zettacrm.com</a></p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://open.ciptadusa.com">
+        <img src="./assets/opensource-divisions.svg" alt="CDS Open Source Divisions" width="140"/>
+      </a>
+      <h3>Open Source Divisions</h3>
+      <p>Rumah open source CDS untuk public tools, eksperimen, dan karya engineering yang siap digunakan komunitas.</p>
+      <p><a href="https://open.ciptadusa.com">open.ciptadusa.com</a></p>
+    </td>
+  </tr>
+</table>
+
+### Tentang Kami
+
+Cipta Dua Saudara (CDS) membantu perusahaan merancang, membangun, dan meningkatkan software. Kami menggabungkan strategi produk, web development, app development, automation, dan IT consulting untuk membantu tim mengirim teknologi praktis dengan nilai jangka panjang.
+
+### Produk
+
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <a href="https://github.com/SOngkir">
+        <img src="https://img.shields.io/badge/SOngkir-Shopify_Ongkir-F97316?style=for-the-badge&logo=shopify&logoColor=white" alt="SOngkir">
+      </a>
+      <h3>📦 SOngkir</h3>
+      <p>Plugin Shopify untuk cek ongkos kirim domestik Indonesia. Mendukung JNE, J&amp;T, SiCepat, AnterAja, dan kurir lainnya.</p>
+      <p>
+        <a href="https://github.com/SOngkir">
+          <img src="https://img.shields.io/badge/Organization-SOngkir-orange?style=flat-square" alt="SOngkir Org">
+        </a>
+        <a href="https://songkir.com">
+          <img src="https://img.shields.io/badge/Website-songkir.com-blue?style=flat-square" alt="Website">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Layanan
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🚀 App Development</h3>
+      <p>Aplikasi mobile dan web custom sesuai kebutuhan bisnis, dibangun untuk kemudahan penggunaan, fungsi yang kuat, dan pengalaman pengguna yang mulus.</p>
+    </td>
+    <td width="33%">
+      <h3>💻 Web Development</h3>
+      <p>Website responsif dan berperforma tinggi untuk merepresentasikan brand serta membantu audiens memahami, percaya, dan menghubungi bisnis Anda.</p>
+    </td>
+    <td width="33%">
+      <h3>📊 IT Consulting</h3>
+      <p>Konsultasi IT praktis untuk memperbaiki infrastruktur, merapikan operasional, dan mendukung pertumbuhan bisnis dengan teknologi yang tepat guna.</p>
+    </td>
+  </tr>
+</table>
+
+### Kontak
+
+<div align="center">
+
+Untuk informasi lebih lanjut tentang layanan dan solusi kami:
+
+🌐 [ciptadusa.com](https://ciptadusa.com)  
 📧 [info@ciptadusa.com](mailto:info@ciptadusa.com)
 
 </div>
