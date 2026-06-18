@@ -5,7 +5,7 @@
   </picture>
 </p>
 <p align="center">
-# Cipta Dua Saudara (CDS)
+ <h2>Cipta Dua Saudara (CDS)</h2>
 </p>
 <p align="center">
   <a href="#english">English</a> · <a href="#bahasa-indonesia">Bahasa Indonesia</a>
