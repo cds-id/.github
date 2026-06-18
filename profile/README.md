@@ -4,9 +4,9 @@
     <img src="./assets/cds-logo.png" alt="CDS.ID Logo" width="200"/>
   </picture>
 </p>
-
+<p align="center">
 # Cipta Dua Saudara (CDS)
-
+</p>
 <p align="center">
   <a href="#english">English</a> · <a href="#bahasa-indonesia">Bahasa Indonesia</a>
 </p>
